@@ -5,15 +5,24 @@ Synthetic biology - Metabolic engineering - Systems biology
 ### Members
 
 #PhD Students
+
 -GLP
+
 -DHV
 
 #Master Students
+
 -MABG
+
 -CAMO
 
 #Undergrad Students
+
 -Levi
+
+
+[Publications](https://scholar.google.com.mx/citations?user=47_zmPUAAAAJ&hl=en)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -32,7 +41,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[L](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
