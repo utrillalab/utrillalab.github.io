@@ -1,24 +1,24 @@
-## UtrillaLab CCG-UNAM
+# UtrillaLab CCG-UNAM
 
 Synthetic biology - Metabolic engineering - Systems biology 
 
-### Members
+## Members
 
-#PhD Students
+### PhD Students
 
--GLP
+- Gustavo M. Lastiri Pancardo
 
--DHV
+- David Hidalgo Vazquez
 
-#Master Students
+### Master Students
 
--MABG
+- Miguel Angel Bello Gonzalez
 
--CAMO
+- Cesar Alejandro Martinez Ortiz
 
-#Undergrad Students
+### Undergrad Students
 
--Levi
+- Levi Bastida
 
 
 [Publications](https://scholar.google.com.mx/citations?user=47_zmPUAAAAJ&hl=en)
