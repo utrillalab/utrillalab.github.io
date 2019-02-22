@@ -1,5 +1,7 @@
 # UtrillaLab CCG-UNAM
 
+![desing](https://github.com/utrillalab/utrillalab.github.io/blob/master/UtrillaLab.JPG)
+
 Synthetic biology - Metabolic engineering - Systems biology 
 
 ## Members
