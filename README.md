@@ -20,6 +20,8 @@ Synthetic biology - Metabolic engineering - Systems biology
 
 ### Undergrad Students
 
+- Elisa Marquez
+
 - Levi Bastida
 
 
