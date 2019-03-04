@@ -24,6 +24,10 @@ Synthetic biology - Metabolic engineering - Systems biology
 
 - Levi Bastida
 
+### Post-docs
+
+ - Leidy Bedoya (co-supervised)
+
 
 [Publications](https://scholar.google.com.mx/citations?user=47_zmPUAAAAJ&hl=en)
 
