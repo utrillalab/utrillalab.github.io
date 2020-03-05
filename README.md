@@ -12,17 +12,17 @@ Synthetic biology - Metabolic engineering - Systems biology
 
 - David Hidalgo Vazquez
 
+- Miguel Angel Bello Gonzalez
+
 ### Master Students
 
-- Miguel Angel Bello Gonzalez
+- Elisa Marquez
 
 - Cesar Alejandro Martinez Ortiz
 
 ### Undergrad Students
 
-- Elisa Marquez
-
-- Levi Bastida
+-(positions available)
 
 ### Post-docs
 
