@@ -2,32 +2,31 @@
 
 ![desing](https://github.com/utrillalab/utrillalab.github.io/blob/master/UtrillaLab.JPG)
 
-Synthetic biology - Metabolic engineering - Systems biology 
+## Synthetic biology - Metabolic engineering - Systems biology 
 
-## Members
+## **Members**
 
 ### PhD Students
 
-- Gustavo M. Lastiri Pancardo
-
-- David Hidalgo Vazquez
-
 - Miguel Angel Bello Gonzalez
+
+- Jair E. Diaz Ramirez
 
 ### Master Students
 
 - Elisa Marquez
 
-- Cesar Alejandro Martinez Ortiz
-
 ### Undergrad Students
 
--(positions available)
+- V. Ulises Plascencia Perez 
 
 ### Post-docs
 
- - Leidy Bedoya (co-supervised)
+ - David Hidalgo Vazquez
+ 
+ - Lizeth Soto Avila
 
+**Positions available:** utrilla at ccg.unam.mx
 
 [Publications](https://scholar.google.com.mx/citations?user=47_zmPUAAAAJ&hl=en)
 
